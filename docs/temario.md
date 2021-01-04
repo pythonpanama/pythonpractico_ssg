@@ -10,13 +10,13 @@ Conoceremos las estructuras de datos de fundamental importancia en Python: tuple
 
 **Organización de un programa**
 
-En esta modulo nos empapamos de más detalles sobre la composición de funciones, el manejo de errores y la introducción de modulos. Al final seremos capaces de escribir programas que son subdivididos en funciones esparcidas en varios archivos. Veremos algunas plantillas de código que les será útil para la creación de programas.
+En este modulo nos empapamos de más detalles sobre la composición de funciones, el manejo de errores y la introducción de modulos. Al final seremos capaces de escribir programas que son subdivididos en funciones esparcidas en varios archivos. Veremos algunas plantillas de código que les será útil para la creación de programas.
 
 **Clases y Objetos**
 
 Introduciremos el concepto de clases y objetos. Aprenderemos sobre la declaración class que nos permite crear nuevos objetos. También introcimos el concepto de inherencia, unaherramienta que es comunmente utilizada para construir programar extensibles. Finalmente, veremos otras características de clases como los métodos especiales, búsqueda dinamica de atributos, y la definición de nuevas excepciones.
 
-**Las entrañas del objeto en Python**
+**Funcionamiento interno del objeto Python**
 
 En esta sección aprenderemos sobre el funcionamiento interno de los objetos en Python. Algunos programadores con experiencia en otros lenguajes de programación a menudo encuentran que la noción de clases en Python carece de ciertas características. Por ejemplo, no existe la noción de control de accesso (e.g. privado, protegido), el argumento self lo encuentran extraño, y trabajar con objetos se siente como una actividad con mucho libertinaje. Conoceremos como todo funciona y algunos patrones comunes para la encapsulación interna de objetos.
 
