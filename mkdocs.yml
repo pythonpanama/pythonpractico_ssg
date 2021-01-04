@@ -1,8 +1,10 @@
 site_name: Python Práctico
 theme:
-  name: readthedocs
+  name: material
   hljs_languages:
     - python
+    - shell
+    - bash
 nav:
   - Sobre el curso: README.md
   - Temario: temario.md
