@@ -1,0 +1,18 @@
+site_name: Python Práctico
+theme:
+  name: readthedocs
+  hljs_languages:
+    - python
+nav:
+  - Sobre el curso: index.md
+  - Temario: temario.md
+  - Preguntas: faq.md
+  - 1 Intro a Python: 1.md
+  - 2 Trabajando con Data: 2.md
+  - 3 Organización de un Programa: 3.md
+  - 4 Clases y Objetos: 4.md
+  - 5 Adentro de un objeto: 5.md
+  - 6 Generadores: 6.md
+  - 7 Temas avanzados: 7.md
+  - 8 Prueba y Depuración: 8.md
+  - 9 Paquetes: 9.md
