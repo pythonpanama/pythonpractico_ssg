@@ -6,7 +6,7 @@ En muchas ocasiones, podemos resolver nuestras dudas leyendo documentación ofic
 
 **No quiero instalar Python, ¿puedo hacer el curso online?**
 
-Es preferible que haga el curso en su ordenador; sin embargo, plataformas como [Repl.it](https://repl.it/) ponen a su disposición un editor y consolaambiente de ejecución Python y una terminal Linux, sin costo alguno.
+Es preferible que haga el curso en su ordenador; sin embargo, plataformas como [Repl.it](https://repl.it/) ponen a su disposición un editor y consola con un ambiente de ejecución Python y una terminal Linux, sin costo alguno.
 
 **¿Dónde y cómo instalo Python?**
 

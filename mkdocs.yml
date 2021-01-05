@@ -1,6 +1,6 @@
 site_name: Python Práctico
 theme:
-  name: material
+  name: readthedocs
   hljs_languages:
     - python
     - shell
