@@ -1,0 +1,1 @@
+*Nota: si desea hacer esta sección online, hemos puesto a disposición un editor, consola Python y terminal Linux en [repl.it](). De lo contrario, tendrá que ejecutar instrucciones en su ordenador*
