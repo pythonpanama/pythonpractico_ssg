@@ -9,6 +9,7 @@ nav:
   - Sobre el curso: README.md
   - Temario: temario.md
   - Preguntas: faq.md
+  - 0 Empiece aqui: 0.md
   - 1 Intro a Python: 1.md
   - 2 Trabajando con Data: 2.md
   - 3 Organización de un Programa: 3.md
