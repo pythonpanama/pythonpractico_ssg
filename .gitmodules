@@ -1,0 +1,3 @@
+[submodule "labs/work"]
+	path = labs/work
+	url = https://github.com/adriaanbd/pythonpractico_labs.git
