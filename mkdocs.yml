@@ -6,7 +6,7 @@ theme:
     - shell
     - bash
 nav:
-  - Sobre el curso: README.md
+  - Sobre el curso: index.md
   - Temario: temario.md
   - Preguntas: faq.md
   - 0 Empiece aqui: 0.md
