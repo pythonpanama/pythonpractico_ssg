@@ -1,4 +1,4 @@
-# Programación Práctica con Python
+# Python Práctico
 
 Python Práctico es un curso de introducción a Python a través del enfoque general de manipulación de datos. Se abordan los temas desde un punto de vista práctico y pragmático.
 
@@ -30,4 +30,10 @@ Si deseas ejecutar el curso en tu ordenador para desarrollo local y ver los camb
 
 Si deseas construir el sitio web, debes ejecutar: `$ python -m mkdocs buil` o `$ mkdocs build`. Este comando creara y/o modificara archivos en la carpeta `./site`. Actualmente, la carpeta `./site` es un submodulo de git, cuyo enlace es otro repositorio en GitHub donde página esta hosteada con GitHub Pages.
 
-La documentación oficial de MkDocs le dará más luces al respecto.
+El directorio de trabajo, para hacer los ejercicios se encuentra en `.labs/work`. Actualmente esto es un submodulo git que contiene los archivos de trabajo y las soluciones.
+
+Para más detalles, la documentación oficial de MkDocs le dará más luces.
+
+## Comunidad
+
+Python Panamá está en [Discord](https://discord.gg/pR4Qkusugs) y en [Telegram](https://t.me/joinchat/VT0pd54f6rCUe-4d).
